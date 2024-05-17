@@ -258,6 +258,9 @@
   <ItemGroup>
     <Content Include="icons8_document.ico" />
     <Content Include="image1_2%281%29.ico" />
+    <None Include="Resources\Untitled-12.png" />
+    <None Include="Resources\Untitled-11.png" />
+    <None Include="Resources\Untitled-1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -44,5 +44,17 @@ namespace DatabaseM5.Properties {
                 return ((string)(this["ConnectionString"]));
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Male {
+            get {
+                return ((bool)(this["Male"]));
+            }
+            set {
+                this["Male"] = value;
+            }
+        }
     }
 }

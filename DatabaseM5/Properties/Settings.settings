@@ -18,5 +18,8 @@
 &lt;/SerializableConnectionString&gt;</DesignTimeValue>
       <Value Profile="(Default)">Data Source=KUONG;Persist Security Info=True;User ID=kuong;Password=1;TrustServerCertificate=True</Value>
     </Setting>
+    <Setting Name="Male" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
   </Settings>
 </SettingsFile>

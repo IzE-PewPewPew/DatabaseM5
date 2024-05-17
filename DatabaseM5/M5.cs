@@ -20,5 +20,7 @@ namespace DatabaseM5
             Connection = new SqlConnection(str);
             Connection.Open();
         }
+
+        public int idTab = 0;
     }
 }
